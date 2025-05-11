@@ -1,14 +1,15 @@
 {
   "name": "school-management-api",
   "version": "1.0.0",
-  "description": "School management system API built with Express and MySQL",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["express", "mysql", "school", "api"],
-  "author": "Your Name",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
