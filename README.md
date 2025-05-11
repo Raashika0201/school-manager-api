@@ -152,14 +152,8 @@ Use the link below to test all endpoints:
 6. Railway gives you a public API URL to share!
 
 ---
-
 ## 🙋‍♂️ Author
 
 **Your Name**  
 GitHub: [@raashika0201](https://github.com/raashika0201)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
